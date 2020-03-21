@@ -7,6 +7,7 @@ class Sudoku():
         pygame.init()
         pygame.mixer.quit()
         self.screen = pygame.display.set_mode((self.W+200,self.H))
+        pygame.display.set_caption("Sudoku Solver")
         self.clock = pygame.time.Clock()
         self.board = Board()
         self.focused = None
