@@ -27,5 +27,6 @@
 Python 3.7x
 Pygame
 numpy
+matplotlib
 ```
 
