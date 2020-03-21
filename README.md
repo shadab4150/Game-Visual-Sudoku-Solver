@@ -19,7 +19,8 @@
 
 
 ## Install Instructions:
-* Just download the file and run it in a **Python IDE**.
+* Install the requirements
+* Just download the file and **Run** it.
 
 
 ### Requirements :
