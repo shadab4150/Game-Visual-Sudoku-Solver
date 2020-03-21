@@ -1,7 +1,9 @@
 # Sudoku Solver
 
-* Sudoku Solver Program made using python and pygame.
+
+* Sudoku Solver Program made using **Python** and **Pygame**.
 * It uses concept of Recursion and Backtracking to solve the Sudoku Puzzle.
+
 
 ## Fill the blocks by Clicking :
 
