@@ -4,7 +4,7 @@
 * It uses concept of Recursion and Backtracking to solve the Sudoku Puzzle.
 
 
-##Install Instructions:
+## Install Instructions:
 * Just download the file and run it in a **Python IDE**.
 
 
